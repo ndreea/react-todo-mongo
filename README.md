@@ -1,10 +1,10 @@
-FrontEnd - Gestor de Paíndromos 🧩
+# FrontEnd - Gestor de Paíndromos 🧩
 Este repositorio contiene el frontend de un ejercicio desarrollado durante el curso.
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 Está diseñado con Reacy y Vite y tiene como objetivo principal aprender el funcionamiento de esta herramienta.
 
-Licencia
+## Licencia
 Se prohíbe la comercialización y distribución de los archivos.
 
 ---------------------------------------
