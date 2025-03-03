@@ -1,4 +1,4 @@
-# FrontEnd - ToDo 🧩
+# FrontEnd - Api ToDo 🧩
 Este repositorio contiene el frontend hecho con React, desarrollado durante el curso.
 
 ## 📌 Descripción
